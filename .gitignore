@@ -1,0 +1,8 @@
+*.o
+*.ko
+*.mod.c
+*.tmp
+*.cmd
+modules.builtin
+modules.order
+vmlinux
